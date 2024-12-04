@@ -1,2 +1,2 @@
 # LabWk2
-Lab3 Week2
+Lab2 Week2
